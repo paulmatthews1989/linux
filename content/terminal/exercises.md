@@ -9,3 +9,13 @@ last_edit_date: # just the date is enough (don't worry about the time portion)
 ---
 
 ## Exercises
+
+### send an email to yourself using mailutils
+
+### cat file, grep lines with money, telephone numbers, redirect output to file, send email using file as message body
+
+### wget from weather API wrapper, send email using file as message body
+
+### open contents of /etc/passwd in less
+
+- `cat /etc/passwd | less`
