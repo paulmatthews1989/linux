@@ -9,3 +9,17 @@ last_edit_date: # just the date is enough (don't worry about the time portion)
 ---
 
 ## Walkthrough
+
+
+<!-- This should be called Bash continued, not terminal continued! -->
+
+
+- STDOUT
+- STDIN
+- STDERR
+- redirection
+- pipes
+- substitution
+
+separately
+- mailutils
