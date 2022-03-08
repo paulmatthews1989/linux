@@ -15,7 +15,7 @@ Let's try out our first command: `pwd`. `pwd` is one of the Bash commands that t
 Simply type `pwd` into your terminal and hit enter.
 
 {{% notice note %}}
-Make sure you only type `pwd` into your terminal before hitting enter. Since the Bash shell is expecting text it requires the text you enter to exactly match it's expectations.
+Make sure you only type `pwd` into your terminal before hitting enter. Since the Bash shell is expecting text it requires the text you enter to exactly match its expectations.
 {{% /notice %}}
 
 ![pwd output](pictures/pwd.png)
